@@ -14,9 +14,6 @@ const arr = [4, 8, 9, 1, 4, 9, 10, 11, 33, 21, 11]
 // console.log(result);
 6// console.log(arr.find(item => item === 9));
 7// console.log(arr.filter(item => item == 4));
-8// console.log(arr.findIndex (item => item === 10 ));
-
-
-console.log("salam");
+// console.log(arr.findIndex (item => item === 10 ));
 
 
